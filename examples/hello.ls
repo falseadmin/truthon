@@ -1,0 +1,1 @@
+main = (argc, argv) -> p "Hello, my arguments are {argv}"
